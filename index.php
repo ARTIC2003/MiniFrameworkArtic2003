@@ -2,6 +2,7 @@
 
 # REQUERIMIENTOS
 	require_once('Config/config.php');
+	require_once('Helpers/Helpers.php');
 
 # METODO URL
 	$url = !empty($_GET['url']) ? $_GET['url'] : 'Home/Home';
