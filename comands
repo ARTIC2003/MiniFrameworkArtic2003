@@ -1,9 +1,0 @@
-git init
-
-git add .
-
-git remote add origin + link
-
-git commit -m "initial commit"
-
-git push origin main
